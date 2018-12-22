@@ -10,4 +10,6 @@
 
 <a target="_blank" href="https://abhi90g.github.io/countdown-app/"> React Countdown App </a>  
 
-<a target="_blank" href="https://abhi90g.github.io/Angular-Contacts-app/"> Angular Contacts App </a>
+<a target="_blank" href="https://abhi90g.github.io/Angular-Contacts-app/"> Angular Contacts App </a>  
+
+<a target="_blank" href="https://abhi90g.github.io/angular-form-validations/"> Angular Form Validations app </a>
