@@ -14,4 +14,6 @@
 
 <a target="_blank" href="https://abhi90g.github.io/angular-form-validations/"> Angular Form Validations app </a>  
   
-<a target="_blank" href="https://abhi90g.github.io/vue-sample-app/"> Vue app </a>
+<a target="_blank" href="https://abhi90g.github.io/vue-sample-app/"> Vue app </a> 
+
+<a target="_blank" href="https://abhi90g.github.io/deal-cards/"> Deal Cards </a>
